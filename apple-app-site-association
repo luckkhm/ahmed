@@ -1,0 +1,21 @@
+{
+	"applinks": {
+	  "details": [
+		{
+		  "appID": "Y25L47Z2AK.com.stb.STB",
+		  "paths": [ "*"]
+		}
+	  ]
+	},
+	"webcredentials": {
+	  "apps": [
+		"Y25L47Z2AK.com.stb.STB"
+	  ]
+	},
+	"appclips": {
+	  "apps": [
+		"Y25L47Z2AK.com.stb.STB"
+	  ]
+	}
+  }
+  
